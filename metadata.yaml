@@ -1,0 +1,34 @@
+_repo: The-Secret-Service-Submarine--A-Story-of-the-Present-War_40581
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thorne, Guy
+    alias: Gull, Cyril Arthur Edward Ranger
+    birthdate: 1875
+    deathdate: 1923
+    gutenberg_agent_id: '38288'
+    url: http://www.gutenberg.org/2009/agents/38288
+    wikipedia: http://www.gutenberg.org/ebooks/author/39349
+description: ''
+gutenberg_issued: '2012-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40581'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boarding schools -- England -- Fiction'
+- !lcsh 'Spy stories'
+- !lcsh 'World War, 1914-1918 -- Naval operations -- Submarine -- Fiction'
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918 -- England -- Fiction'
+- !lcsh 'Norfolk (England) -- Fiction'
+- !lcsh 'Teachers -- Fiction'
+- !lcsh 'Adventure stories'
+title: 'The Secret Service Submarine: A Story of the Present War'
+url: http://www.gutenberg.org/ebooks/40581
